@@ -9,6 +9,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+-
+
+### Changed
+
+-
+
+### Removed
+
+-
+
+### Fixed
+
+-
+
+## [1.0.0] - 2025-05-20
+
+### Added
+
 - Created support for route grouping by API version and domain (`/api/:version/:group`).
 - Added `Controller` and `ControllerModule` interfaces to enforce consistent controller behavior.
 - Implemented support for custom middlewares per controller.
